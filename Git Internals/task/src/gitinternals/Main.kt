@@ -1,5 +1,6 @@
 package gitinternals
 
 fun main() {
-    print("test")
+    println("test")
+    println("test")
 }
